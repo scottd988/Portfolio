@@ -39,8 +39,8 @@ nav ul {
   }
 
   .about-me-content {
-    /*display: flex;
-    align-items: center;*/
+    display: flex;
+    align-items: center;
   }
 
   .about-me-content img {
